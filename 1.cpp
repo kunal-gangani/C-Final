@@ -1,3 +1,6 @@
+/*
+1. Write a C++ program to print factorial series using recursion.
+*/
 #include<iostream>
 using namespace std;
 class Fact{

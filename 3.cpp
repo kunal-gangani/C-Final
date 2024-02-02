@@ -1,3 +1,6 @@
+/*
+3. Give an example which shows Exception handling of division by zero exception.
+*/
 #include<iostream>
 using namespace std;
 class Zero{
